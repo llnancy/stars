@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [PowerShell](#powershell)
@@ -16,17 +17,27 @@
 *   [Scala](#scala)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
 *   [Objective-C](#objective-c)
 *   [HTML](#html)
-*   [PHP](#php)
 *   [SCSS](#scss)
-*   [CSS](#css)
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
+*   [C#](#c)
+
+## miscellaneous
+
+*   [llnancy/stars](https://github.com/llnancy/stars) - awesome my stars - https://llnancy.github.io/stars/
+*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
+*   [zszdevelop/java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook) - java学习gitbook笔记 http://java.isture.com
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+*   [imageslr/typora-theme-lark](https://github.com/imageslr/typora-theme-lark) - 更多 Typora 主题请查看：https://github.com/imageslr/typora-theme-bear ，https://github.com/imageslr/mweb-themes
 
 ## TypeScript
 
@@ -122,20 +133,9 @@
 ## Python
 
 *   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-*   [edreamleo/make-stub-files](https://github.com/edreamleo/make-stub-files) - Script and config file that creates python stub (.pyi) files
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 *   [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-
-## miscellaneous
-
-*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
-*   [zszdevelop/java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook) - java学习gitbook笔记 http://java.isture.com
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-*   [imageslr/typora-theme-lark](https://github.com/imageslr/typora-theme-lark) - 更多 Typora 主题请查看：https://github.com/imageslr/typora-theme-bear ，https://github.com/imageslr/mweb-themes
+*   [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 
 ## Go
 
@@ -165,17 +165,9 @@
 *   [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file.
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
-## PHP
-
-*   [gz-hejiehui/WebStack-Laravel](https://github.com/gz-hejiehui/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
-
 ## SCSS
 
 *   [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - A simple, elegant, book-like hexo theme with some useful features.
-
-## CSS
-
-*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 12 style Typora themes - Material Google JetBrains Vue Juejin Purple Ayu Dark
 
 ## Dockerfile
 
@@ -184,5 +176,9 @@
 ## Erlang
 
 *   [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ
+
+## C\#
+
+*   [Redns/picgo-plugin-autobackup](https://github.com/Redns/picgo-plugin-autobackup) - picgo图片自动备份插件
 
 <!-- generated with [llnancy/stars](https://github.com/llnancy/stars.git) -->
