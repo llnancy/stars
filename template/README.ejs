@@ -10,8 +10,7 @@
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
 
-<% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+<% for(let repo of repositories) { %>- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
 <% } %>
 
 <% } %>
