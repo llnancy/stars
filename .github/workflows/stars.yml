@@ -1,0 +1,24 @@
+name: Update awesome list
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+  schedule:
+    - cron: "1 16 * * *"
+  watch:
+    types: [started]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Awesome generator
+        uses: simonecorsi/mawesome@v2
+        with:
+          api-token: ${{ secrets.GH_TOKEN }}
+          template-path: "template/README.ejs"
+          github-email: "admin@lilu.org.cn"
+          github-name: ${{ github.repository_owner }}

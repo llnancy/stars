@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+.idea
+*.iml
+
+### VS Code ###
+.vscode/
+.DS_Store

@@ -1,0 +1,19 @@
+<div align="center">
+
+# My Stars
+
+⭐ 我的 stars 列表，每天自动更新 ⭐
+</div>
+
+## Table of Contents
+  
+<% for(let [language, repositories] of stars) { %>
+## <%= language %>
+
+<% for(let repo of repositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+<% } %>
+
+<% } %>
+
+<!-- generated with [llnancy/stars](https://github.com/llnancy/stars.git) -->
