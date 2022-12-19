@@ -1,4 +1,105 @@
 {
+  "TypeScript": [
+    {
+      "id": 199488860,
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTk0ODg4NjA=",
+      "name": "starter-workflows",
+      "full_name": "actions/starter-workflows",
+      "owner": {
+        "login": "actions",
+        "id": 44036562,
+        "avatar_url": "https://avatars.githubusercontent.com/u/44036562?v=4",
+        "url": "https://api.github.com/users/actions",
+        "html_url": "https://github.com/actions"
+      },
+      "html_url": "https://github.com/actions/starter-workflows",
+      "description": "Accelerating new GitHub Actions workflows ",
+      "url": "https://api.github.com/repos/actions/starter-workflows",
+      "languages_url": "https://api.github.com/repos/actions/starter-workflows/languages",
+      "created_at": "2019-07-29T16:26:51Z",
+      "updated_at": "2022-12-19T12:47:31Z",
+      "git_url": "git://github.com/actions/starter-workflows.git",
+      "ssh_url": "git@github.com:actions/starter-workflows.git",
+      "clone_url": "https://github.com/actions/starter-workflows.git",
+      "homepage": "https://github.com/features/actions",
+      "stargazers_count": 6975,
+      "watchers_count": 6975,
+      "language": "TypeScript",
+      "topics": [
+        "actions"
+      ]
+    },
+    {
+      "id": 379231368,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNzkyMzEzNjg=",
+      "name": "onedrive-vercel-index",
+      "full_name": "spencerwooo/onedrive-vercel-index",
+      "owner": {
+        "login": "spencerwooo",
+        "id": 32114380,
+        "avatar_url": "https://avatars.githubusercontent.com/u/32114380?v=4",
+        "url": "https://api.github.com/users/spencerwooo",
+        "html_url": "https://github.com/spencerwooo"
+      },
+      "html_url": "https://github.com/spencerwooo/onedrive-vercel-index",
+      "description": "OneDrive public directory listing, powered by Vercel and Next.js",
+      "url": "https://api.github.com/repos/spencerwooo/onedrive-vercel-index",
+      "languages_url": "https://api.github.com/repos/spencerwooo/onedrive-vercel-index/languages",
+      "created_at": "2021-06-22T10:33:55Z",
+      "updated_at": "2022-12-19T05:57:42Z",
+      "git_url": "git://github.com/spencerwooo/onedrive-vercel-index.git",
+      "ssh_url": "git@github.com:spencerwooo/onedrive-vercel-index.git",
+      "clone_url": "https://github.com/spencerwooo/onedrive-vercel-index.git",
+      "homepage": "https://drive.swo.moe",
+      "stargazers_count": 1984,
+      "watchers_count": 1984,
+      "language": "TypeScript",
+      "topics": [
+        "nextjs",
+        "onedrive",
+        "react",
+        "redis",
+        "tailwindcss",
+        "upstash",
+        "vercel"
+      ]
+    },
+    {
+      "id": 40518025,
+      "node_id": "MDEwOlJlcG9zaXRvcnk0MDUxODAyNQ==",
+      "name": "graphiql",
+      "full_name": "graphql/graphiql",
+      "owner": {
+        "login": "graphql",
+        "id": 12972006,
+        "avatar_url": "https://avatars.githubusercontent.com/u/12972006?v=4",
+        "url": "https://api.github.com/users/graphql",
+        "html_url": "https://github.com/graphql"
+      },
+      "html_url": "https://github.com/graphql/graphiql",
+      "description": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+      "url": "https://api.github.com/repos/graphql/graphiql",
+      "languages_url": "https://api.github.com/repos/graphql/graphiql/languages",
+      "created_at": "2015-08-11T02:56:22Z",
+      "updated_at": "2022-12-19T11:11:42Z",
+      "git_url": "git://github.com/graphql/graphiql.git",
+      "ssh_url": "git@github.com:graphql/graphiql.git",
+      "clone_url": "https://github.com/graphql/graphiql.git",
+      "homepage": "",
+      "stargazers_count": 14451,
+      "watchers_count": 14451,
+      "language": "TypeScript",
+      "topics": [
+        "codemirror",
+        "graphiql",
+        "graphql",
+        "lsp-mode",
+        "lsp-server",
+        "monaco-editor",
+        "vscode"
+      ]
+    }
+  ],
   "Shell": [
     {
       "id": 23584347,
@@ -1987,13 +2088,13 @@
       "url": "https://api.github.com/repos/anuraghazra/github-readme-stats",
       "languages_url": "https://api.github.com/repos/anuraghazra/github-readme-stats/languages",
       "created_at": "2020-07-09T10:34:22Z",
-      "updated_at": "2022-12-19T12:22:59Z",
+      "updated_at": "2022-12-19T12:46:55Z",
       "git_url": "git://github.com/anuraghazra/github-readme-stats.git",
       "ssh_url": "git@github.com:anuraghazra/github-readme-stats.git",
       "clone_url": "https://github.com/anuraghazra/github-readme-stats.git",
       "homepage": "https://github-readme-stats.vercel.app",
-      "stargazers_count": 48982,
-      "watchers_count": 48982,
+      "stargazers_count": 48983,
+      "watchers_count": 48983,
       "language": "JavaScript",
       "topics": [
         "dynamic",
@@ -2306,13 +2407,13 @@
       "url": "https://api.github.com/repos/donnemartin/system-design-primer",
       "languages_url": "https://api.github.com/repos/donnemartin/system-design-primer/languages",
       "created_at": "2017-02-26T16:15:28Z",
-      "updated_at": "2022-12-19T12:29:44Z",
+      "updated_at": "2022-12-19T12:48:45Z",
       "git_url": "git://github.com/donnemartin/system-design-primer.git",
       "ssh_url": "git@github.com:donnemartin/system-design-primer.git",
       "clone_url": "https://github.com/donnemartin/system-design-primer.git",
       "homepage": "",
-      "stargazers_count": 205891,
-      "watchers_count": 205891,
+      "stargazers_count": 205892,
+      "watchers_count": 205892,
       "language": "Python",
       "topics": [
         "design",
@@ -2356,39 +2457,6 @@
       "watchers_count": 8926,
       "language": "Python",
       "topics": []
-    },
-    {
-      "id": 3489194,
-      "node_id": "MDEwOlJlcG9zaXRvcnkzNDg5MTk0",
-      "name": "jedi",
-      "full_name": "davidhalter/jedi",
-      "owner": {
-        "login": "davidhalter",
-        "id": 748594,
-        "avatar_url": "https://avatars.githubusercontent.com/u/748594?v=4",
-        "url": "https://api.github.com/users/davidhalter",
-        "html_url": "https://github.com/davidhalter"
-      },
-      "html_url": "https://github.com/davidhalter/jedi",
-      "description": "Awesome autocompletion, static analysis and refactoring library for python",
-      "url": "https://api.github.com/repos/davidhalter/jedi",
-      "languages_url": "https://api.github.com/repos/davidhalter/jedi/languages",
-      "created_at": "2012-02-19T23:12:30Z",
-      "updated_at": "2022-12-19T12:20:08Z",
-      "git_url": "git://github.com/davidhalter/jedi.git",
-      "ssh_url": "git@github.com:davidhalter/jedi.git",
-      "clone_url": "https://github.com/davidhalter/jedi.git",
-      "homepage": "http://jedi.readthedocs.io",
-      "stargazers_count": 5292,
-      "watchers_count": 5292,
-      "language": "Python",
-      "topics": [
-        "auto-complete",
-        "python",
-        "refactoring",
-        "static-analysis",
-        "type-inference"
-      ]
     }
   ],
   "miscellaneous": [
@@ -3041,78 +3109,6 @@
       "watchers_count": 9037,
       "language": "HTML",
       "topics": []
-    }
-  ],
-  "TypeScript": [
-    {
-      "id": 379231368,
-      "node_id": "MDEwOlJlcG9zaXRvcnkzNzkyMzEzNjg=",
-      "name": "onedrive-vercel-index",
-      "full_name": "spencerwooo/onedrive-vercel-index",
-      "owner": {
-        "login": "spencerwooo",
-        "id": 32114380,
-        "avatar_url": "https://avatars.githubusercontent.com/u/32114380?v=4",
-        "url": "https://api.github.com/users/spencerwooo",
-        "html_url": "https://github.com/spencerwooo"
-      },
-      "html_url": "https://github.com/spencerwooo/onedrive-vercel-index",
-      "description": "OneDrive public directory listing, powered by Vercel and Next.js",
-      "url": "https://api.github.com/repos/spencerwooo/onedrive-vercel-index",
-      "languages_url": "https://api.github.com/repos/spencerwooo/onedrive-vercel-index/languages",
-      "created_at": "2021-06-22T10:33:55Z",
-      "updated_at": "2022-12-19T05:57:42Z",
-      "git_url": "git://github.com/spencerwooo/onedrive-vercel-index.git",
-      "ssh_url": "git@github.com:spencerwooo/onedrive-vercel-index.git",
-      "clone_url": "https://github.com/spencerwooo/onedrive-vercel-index.git",
-      "homepage": "https://drive.swo.moe",
-      "stargazers_count": 1984,
-      "watchers_count": 1984,
-      "language": "TypeScript",
-      "topics": [
-        "nextjs",
-        "onedrive",
-        "react",
-        "redis",
-        "tailwindcss",
-        "upstash",
-        "vercel"
-      ]
-    },
-    {
-      "id": 40518025,
-      "node_id": "MDEwOlJlcG9zaXRvcnk0MDUxODAyNQ==",
-      "name": "graphiql",
-      "full_name": "graphql/graphiql",
-      "owner": {
-        "login": "graphql",
-        "id": 12972006,
-        "avatar_url": "https://avatars.githubusercontent.com/u/12972006?v=4",
-        "url": "https://api.github.com/users/graphql",
-        "html_url": "https://github.com/graphql"
-      },
-      "html_url": "https://github.com/graphql/graphiql",
-      "description": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
-      "url": "https://api.github.com/repos/graphql/graphiql",
-      "languages_url": "https://api.github.com/repos/graphql/graphiql/languages",
-      "created_at": "2015-08-11T02:56:22Z",
-      "updated_at": "2022-12-19T11:11:42Z",
-      "git_url": "git://github.com/graphql/graphiql.git",
-      "ssh_url": "git@github.com:graphql/graphiql.git",
-      "clone_url": "https://github.com/graphql/graphiql.git",
-      "homepage": "",
-      "stargazers_count": 14451,
-      "watchers_count": 14451,
-      "language": "TypeScript",
-      "topics": [
-        "codemirror",
-        "graphiql",
-        "graphql",
-        "lsp-mode",
-        "lsp-server",
-        "monaco-editor",
-        "vscode"
-      ]
     }
   ],
   "PHP": [
