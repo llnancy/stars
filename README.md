@@ -25,19 +25,18 @@
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
-*   [C#](#c)
+*   [Markdown](#markdown)
 
 ## miscellaneous
 
+*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 *   [llnancy/stars](https://github.com/llnancy/stars) - awesome my stars - https://llnancy.github.io/stars/
 *   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 *   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 *   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 *   [zszdevelop/java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook) - java学习gitbook笔记 http://java.isture.com
 *   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 *   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-*   [imageslr/typora-theme-lark](https://github.com/imageslr/typora-theme-lark) - 更多 Typora 主题请查看：https://github.com/imageslr/typora-theme-bear ，https://github.com/imageslr/mweb-themes
 
 ## TypeScript
 
@@ -94,6 +93,7 @@
 *   [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 *   [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
 *   [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
+*   [HonestMasker/huaying](https://github.com/HonestMasker/huaying) - 🧚‍♀️ 花楹 - 一个基于 Spring Boot 构建的随机资源 API 服务。可作为随机图片 API，用于网站背景图等。
 
 ## Vue
 
@@ -135,13 +135,13 @@
 *   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 *   [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-*   [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 
 ## Go
 
 *   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+*   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
 
 ## Kotlin
 
@@ -177,8 +177,8 @@
 
 *   [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) - Delayed Messaging for RabbitMQ
 
-## C\#
+## Markdown
 
-*   [Redns/picgo-plugin-autobackup](https://github.com/Redns/picgo-plugin-autobackup) - picgo图片自动备份插件
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 <!-- generated with [llnancy/stars](https://github.com/llnancy/stars.git) -->
