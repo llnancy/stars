@@ -108,7 +108,7 @@
 
 ## Scala
 
-*   [apache/incubator-kyuubi](https://github.com/apache/incubator-kyuubi) - Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+*   [apache/kyuubi](https://github.com/apache/kyuubi) - Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
 
 ## JavaScript
 
