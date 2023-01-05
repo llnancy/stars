@@ -81,7 +81,7 @@
 *   [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core
 *   [google/guava](https://github.com/google/guava) - Google core libraries for Java
 *   [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
-*   [llnancy/sunchaser-rpc](https://github.com/llnancy/sunchaser-rpc) - A high performance RPC framework based on Netty.（一个基于 Netty 实现的高性能 RPC 框架）
+*   [llnancy/longkui](https://github.com/llnancy/longkui) - 🌻 龙葵：一个基于 Netty 实现的高性能 RPC 框架（LongKui: A high performance RPC framework based on Netty.）
 *   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 *   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13
 *   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
