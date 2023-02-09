@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -19,12 +20,16 @@
 *   [Python](#python)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
-*   [Rust](#rust)
 *   [Objective-C](#objective-c)
 *   [HTML](#html)
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
+
+## Rust
+
+*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+*   [mirrorworld-universe/mirrorworld-sdk-rust](https://github.com/mirrorworld-universe/mirrorworld-sdk-rust) - mirrorworld-sdk-rust
 
 ## Java
 
@@ -141,17 +146,12 @@
 *   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-*   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
 
 ## Kotlin
 
 *   [tsonglew/intellij-etcdhelper](https://github.com/tsonglew/intellij-etcdhelper) - a simple intellij platform etcd plugin
 *   [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
 *   [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
-
-## Rust
-
-*   [mirrorworld-universe/mirrorworld-sdk-rust](https://github.com/mirrorworld-universe/mirrorworld-sdk-rust) - mirrorworld-sdk-rust
 
 ## Objective-C
 
