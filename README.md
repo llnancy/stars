@@ -116,7 +116,6 @@
 *   [llnancy/jingtian](https://github.com/llnancy/jingtian) - 景天：Java 学习笔记。J.U.C/NIO/Netty/GraphQL/gRPC
 *   [TaXueWWL/seckill-rocketmq](https://github.com/TaXueWWL/seckill-rocketmq) - seckill-rocketmq-基于RocketMQ-电商高并发场景实战
 *   [llnancy/sns-project](https://github.com/llnancy/sns-project) - init
-*   [llnancy/The-sword-refers-to-offer](https://github.com/llnancy/The-sword-refers-to-offer) - 《剑指offer》代码练习
 
 ## Solidity
 
@@ -257,6 +256,7 @@
 *   [tsonglew/intellij-etcdhelper](https://github.com/tsonglew/intellij-etcdhelper) - a simple intellij platform etcd plugin
 *   [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
 *   [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 ## Objective-C
 
