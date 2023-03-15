@@ -69,7 +69,7 @@
 *   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 *   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13
 *   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
-*   [eclipse/lsp4j](https://github.com/eclipse/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
+*   [eclipse-lsp4j/lsp4j](https://github.com/eclipse-lsp4j/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
 *   [oVirt/vdsm-jsonrpc-java](https://github.com/oVirt/vdsm-jsonrpc-java) - JSON RPC Java client for oVirt
 *   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 *   [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java
