@@ -208,7 +208,7 @@
 
 ## CSS
 
-*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) -
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 *   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
 
 ## Rust
