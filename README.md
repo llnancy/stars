@@ -11,6 +11,7 @@
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
+*   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Solidity](#solidity)
@@ -20,7 +21,6 @@
 *   [Shell](#shell)
 *   [PowerShell](#powershell)
 *   [C](#c)
-*   [Vue](#vue)
 *   [Scala](#scala)
 *   [Kotlin](#kotlin)
 *   [Objective-C](#objective-c)
@@ -72,9 +72,25 @@
 *   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
 *   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 
-## JavaScript
+## Vue
 
 *   [dingshaohua-cn/vuepress-plugin-anchor-right](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right) -
+*   [calebman/ant-design-vue-hign](https://github.com/calebman/ant-design-vue-hign) - High-level component library based on ant-design-vue
+*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
+*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
+*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
+*   [chenxuan0000/vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - :tada: vue canvas动效库
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+*   [EsunR/Blog-Index](https://github.com/EsunR/Blog-Index) - 一个通用的个人网站的引导页、导航页模板
+*   [darrynten/vue-adsense](https://github.com/darrynten/vue-adsense) - Google Adsense for Vue
+*   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
+*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
+*   [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+*   [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and element.
+
+## JavaScript
+
 *   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 *   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
@@ -236,22 +252,6 @@
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 *   [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 *   [alibaba/TairHash](https://github.com/alibaba/TairHash) - A redis module, similar to redis hash, but you can set expiration and version for field.
-
-## Vue
-
-*   [calebman/ant-design-vue-hign](https://github.com/calebman/ant-design-vue-hign) - High-level component library based on ant-design-vue
-*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
-*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
-*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
-*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
-*   [chenxuan0000/vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - :tada: vue canvas动效库
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-*   [EsunR/Blog-Index](https://github.com/EsunR/Blog-Index) - 一个通用的个人网站的引导页、导航页模板
-*   [darrynten/vue-adsense](https://github.com/darrynten/vue-adsense) - Google Adsense for Vue
-*   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
-*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-*   [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
-*   [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and element.
 
 ## Scala
 
