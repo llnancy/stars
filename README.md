@@ -251,7 +251,7 @@
 
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 *   [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
-*   [alibaba/TairHash](https://github.com/alibaba/TairHash) - A redis module, similar to redis hash, but you can set expiration and version for field.
+*   [tair-opensource/TairHash](https://github.com/tair-opensource/TairHash) - A redis module, similar to redis hash, but you can set expiration and version for field.
 
 ## Scala
 
