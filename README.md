@@ -144,7 +144,7 @@
 *   [tang-jie/NettyRPC](https://github.com/tang-jie/NettyRPC) - NettyRPC is high performance java rpc server base on Netty,using kryo,hessian,protostuff support message serialization.
 *   [gloriawish/rpc](https://github.com/gloriawish/rpc) - 参加阿里巴巴中间件比赛时的rpc项目源码，高性能RPC框架
 *   [gloriawish/mom\_v2](https://github.com/gloriawish/mom_v2) - 参加阿里巴巴中间件比赛时的mom项目源码(版本2)
-*   [huaweicloud/spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) - Spring Cloud Huawei is a framework that makes it easier to integrate Spring Cloud and Huawei frameworks such as ServiceComb and ServiceStage.
+*   [huaweicloud/spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) - Spring Cloud Huawei is a framework that makes it easier and productive to develop microservices with Spring Cloud.
 *   [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
 *   [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core
 *   [google/guava](https://github.com/google/guava) - Google core libraries for Java
