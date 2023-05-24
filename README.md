@@ -35,6 +35,7 @@
 
 ## Python
 
+*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 *   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 *   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
@@ -303,6 +304,5 @@
 ## FreeMarker
 
 *   [SureChang/easygen](https://github.com/SureChang/easygen) - a flexible generate code framework , can be a better mybatis generator
-*   [jelly-liu/MyBatisGen](https://github.com/jelly-liu/MyBatisGen) - MyBatis Generater pojo model and xml mapper, support MySQL and Oracle
 
 <!-- generated with [llnancy/stars](https://github.com/llnancy/stars.git) -->
