@@ -34,7 +34,8 @@
 
 ## Java
 
-*   [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AGI (ChatGPT)）
+*   [native-group/native-spi](https://github.com/native-group/native-spi) - A lightweight Java SPI implementation, referring to Apache Dubbo SPI.
+*   [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 *   [msgpack/msgpack-java](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java / msgpack.org\[Java]
 *   [lgb020/diancan](https://github.com/lgb020/diancan) - sprnigboot和微信小程序实现点餐系统（全栈开发之微信小程序点餐）
 *   [SpringCloud/Moss](https://github.com/SpringCloud/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
@@ -109,7 +110,6 @@
 *   [llnancy/sub-dbtb-sql-generate-tool](https://github.com/llnancy/sub-dbtb-sql-generate-tool) - 生成分库分表的建表/删表/改表语句
 *   [llnancy/mojian](https://github.com/llnancy/mojian) - 魔剑 - 业务开发工具集
 *   [llnancy/xxl-job-source-notes](https://github.com/llnancy/xxl-job-source-notes) - 许雪里老师的分布式任务调度平台XXL-JOB源码阅读笔记
-*   [yinabameguru/my\_sns](https://github.com/yinabameguru/my_sns) - 社交网络通用服务，目前版本为version1.1.0，version2.0.0开发中。为用户提供社交服务的基本功能。具体功能和模块请看readme
 
 ## Python
 
