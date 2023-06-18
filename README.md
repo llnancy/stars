@@ -278,7 +278,7 @@
 
 ## SCSS
 
-*   [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - A simple, elegant, book-like hexo theme with some useful features.
+*   [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - \[No Longer Maintained] A simple, elegant, book-like hexo theme with some useful features.
 
 ## Dockerfile
 
