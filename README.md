@@ -180,7 +180,7 @@
 *   [michaelliao/shici](https://github.com/michaelliao/shici) - 中华诗词网站 www.shi-ci.com 诗词文件及源码
 *   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 *   [taniarascia/webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) - 📦 ‎ A sensible webpack 5 boilerplate.
-*   [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【待重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+*   [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【即将重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 *   [HoYuenhang/aNavigation](https://github.com/HoYuenhang/aNavigation) - 单纯就是一个导航。
 *   [maligree/python-ast-explorer](https://github.com/maligree/python-ast-explorer) - The code behind python-ast-explorer.com
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
