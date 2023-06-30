@@ -34,7 +34,7 @@
 
 ## Java
 
-*   [llnancy/webclient-spring-boot-starter](https://github.com/llnancy/webclient-spring-boot-starter) - An enhancement to the spring boot 3.x http interface, using the HTTP Interface in Spring Boot 3.x like using @FeignClient and @RetrofitClient.
+*   [llnancy/exchangeclient-spring-boot-starter](https://github.com/llnancy/exchangeclient-spring-boot-starter) - An enhancement to the Spring Boot 3.x HTTP Interface, using the HTTP Interface in Spring Boot 3.x like using @FeignClient and @RetrofitClient.
 *   [LianjiaTech/retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot-starter，支持快速集成和功能增强）
 *   [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
 *   [native-group/native-spi](https://github.com/native-group/native-spi) - A lightweight Java SPI implementation, referring to Apache Dubbo SPI.
