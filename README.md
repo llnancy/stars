@@ -20,7 +20,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [PowerShell](#powershell)
-*   [C](#c)
 *   [Scala](#scala)
 *   [Kotlin](#kotlin)
 *   [Objective-C](#objective-c)
@@ -29,7 +28,8 @@
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
 *   [Markdown](#markdown)
-*   [C#](#c-1)
+*   [C#](#c)
+*   [C](#c-1)
 *   [Stylus](#stylus)
 
 ## TypeScript
@@ -191,6 +191,7 @@
 ## Go
 
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 *   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -249,12 +250,6 @@
 
 *   [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 
-## C
-
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-*   [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
-*   [tair-opensource/TairHash](https://github.com/tair-opensource/TairHash) - A redis module, similar to redis hash, but you can set expiration and version for field.
-
 ## Scala
 
 *   [apache/kyuubi](https://github.com/apache/kyuubi) - Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
@@ -296,6 +291,11 @@
 ## C\#
 
 *   [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
+
+## C
+
+*   [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
+*   [tair-opensource/TairHash](https://github.com/tair-opensource/TairHash) - A redis module, similar to redis hash, but you can set expiration and version for field.
 
 ## Stylus
 
