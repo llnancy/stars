@@ -34,6 +34,8 @@
 
 ## Java
 
+*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+*   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 *   [alipay/fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
 *   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Manager; Open-source codebase mirror
 *   [spring-projects-experimental/spring-cloud-square](https://github.com/spring-projects-experimental/spring-cloud-square) - Spring Cloud auto-configuration of Retrofit and OkHttp (with Spring Cloud LoadBalancer).
@@ -124,7 +126,6 @@
 *   [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili img uploader。哔哩哔哩图床上传插件.https://chrome.google.com/webstore/detail/b%E7%AB%99%E5%9B%BE%E5%BA%8A/domljbndjbjgpkhdbmfgmiclggdfojnd?hl=zh-CN
 *   [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 *   [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
-*   [54sword/xiaoduyu.com](https://github.com/54sword/xiaoduyu.com) - 🐟小度鱼 - 年轻人的交流社区 https://www.xiaoduyu.com
 
 ## JavaScript
 
@@ -137,7 +138,6 @@
 *   [michaelliao/shici](https://github.com/michaelliao/shici) - 中华诗词网站 www.shi-ci.com 诗词文件及源码
 *   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 *   [taniarascia/webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) - 📦 ‎ A sensible webpack 5 boilerplate.
-*   [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【即将重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 *   [HoYuenhang/aNavigation](https://github.com/HoYuenhang/aNavigation) - 单纯就是一个导航。
 *   [maligree/python-ast-explorer](https://github.com/maligree/python-ast-explorer) - The code behind python-ast-explorer.com
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -206,6 +206,7 @@
 *   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
 *   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 *   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
+*   [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 *   [chenxuan0000/vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - :tada: vue canvas动效库
 *   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 *   [EsunR/Blog-Index](https://github.com/EsunR/Blog-Index) - 一个通用的个人网站的引导页、导航页模板
@@ -236,7 +237,6 @@
 *   [idaSmilence/javaDesign](https://github.com/idaSmilence/javaDesign) -
 *   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 *   [lmhmhl/Resilience4j-Guides-Chinese](https://github.com/lmhmhl/Resilience4j-Guides-Chinese) - Resilience4j guides in chinese version
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Shell
 
