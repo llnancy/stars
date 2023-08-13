@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [Python](#python)
 *   [Rust](#rust)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
@@ -32,6 +32,26 @@
 *   [C#](#c)
 *   [C](#c-1)
 *   [Stylus](#stylus)
+
+## Python
+
+*   [Scholar01/sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) - 适用于Automatic1111/stable-diffusion-webui 的 Mov2mov 插件。
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于 GPT3.5/GPT4.0/文心一言 模型，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
+*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+*   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
+*   [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -
+*   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+*   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+*   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
+*   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+*   [PurityZw/huaban\_images\_spider](https://github.com/PurityZw/huaban_images_spider) - 爬取花瓣网美女图片. http://huaban.com/boards/favorite/beauty/
+*   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
+*   [JalanJiang/2019-github-annual-report](https://github.com/JalanJiang/2019-github-annual-report) - GitHub 2019 年度报告
 
 ## Java
 
@@ -153,26 +173,6 @@
 *   [chenaey/circleDemo](https://github.com/chenaey/circleDemo) - 仿微信朋友圈 、小程序端社区
 *   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 *   [EasyHexo/Easy-Hexo](https://github.com/EasyHexo/Easy-Hexo) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
-*   [liumulin614/BeautifulGirl](https://github.com/liumulin614/BeautifulGirl) - Wechat APP Sample: An app shows pictures of beautiful girls
-
-## Python
-
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于 GPT3.5/GPT4.0/文心一言 模型，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
-*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-*   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
-*   [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -
-*   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
-*   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
-*   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-*   [PurityZw/huaban\_images\_spider](https://github.com/PurityZw/huaban_images_spider) - 爬取花瓣网美女图片. http://huaban.com/boards/favorite/beauty/
-*   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
-*   [JalanJiang/2019-github-annual-report](https://github.com/JalanJiang/2019-github-annual-report) - GitHub 2019 年度报告
 
 ## Rust
 
