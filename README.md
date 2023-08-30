@@ -8,9 +8,11 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Python](#python)
+*   [Shell](#shell)
 *   [Java](#java)
 *   [JavaScript](#javascript)
-*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [CSS](#css)
@@ -18,7 +20,6 @@
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Solidity](#solidity)
-*   [Shell](#shell)
 *   [PowerShell](#powershell)
 *   [Scala](#scala)
 *   [Kotlin](#kotlin)
@@ -31,7 +32,39 @@
 *   [Astro](#astro)
 *   [C#](#c)
 *   [C](#c-1)
-*   [Stylus](#stylus)
+
+## Jupyter Notebook
+
+*   [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
+
+## Python
+
+*   [ClockZinc/sd-webui-IS-NET-pro](https://github.com/ClockZinc/sd-webui-IS-NET-pro) - webui extension
+*   [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
+*   [Scholar01/sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) - 适用于Automatic1111/stable-diffusion-webui 的 Mov2mov 插件。
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于 GPT3.5/GPT4.0/文心一言/讯飞星火 模型，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
+*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+*   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
+*   [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -
+*   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+*   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+*   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
+*   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+*   [PurityZw/huaban\_images\_spider](https://github.com/PurityZw/huaban_images_spider) - 爬取花瓣网美女图片. http://huaban.com/boards/favorite/beauty/
+*   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
+
+## Shell
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+*   [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
+*   [itclanCode/blogcode](https://github.com/itclanCode/blogcode) - 前端面试题,微信小程序,云开发,开发实用性技能,itclanCoder的技术后花园,源码,欢迎star,提issues
+*   [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
+*   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
 
 ## Java
 
@@ -112,7 +145,6 @@
 *   [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
 *   [apache/commons-digester](https://github.com/apache/commons-digester) - Apache Commons Digester
 *   [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
-*   [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
 
 ## JavaScript
 
@@ -140,26 +172,6 @@
 *   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 *   [chenaey/circleDemo](https://github.com/chenaey/circleDemo) - 仿微信朋友圈 、小程序端社区
 *   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-
-## Python
-
-*   [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
-*   [Scholar01/sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) - 适用于Automatic1111/stable-diffusion-webui 的 Mov2mov 插件。
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于 GPT3.5/GPT4.0/文心一言/讯飞星火 模型，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
-*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-*   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
-*   [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -
-*   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
-*   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
-*   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-*   [PurityZw/huaban\_images\_spider](https://github.com/PurityZw/huaban_images_spider) - 爬取花瓣网美女图片. http://huaban.com/boards/favorite/beauty/
-*   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
 
 ## TypeScript
 
@@ -215,7 +227,6 @@
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 *   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
-*   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 
 ## Vue
 
@@ -238,13 +249,6 @@
 ## Solidity
 
 *   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
-
-## Shell
-
-*   [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
-*   [itclanCode/blogcode](https://github.com/itclanCode/blogcode) - 前端面试题,微信小程序,云开发,开发实用性技能,itclanCoder的技术后花园,源码,欢迎star,提issues
-*   [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
-*   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
 
 ## PowerShell
 
@@ -300,9 +304,5 @@
 
 *   [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 *   [tair-opensource/TairHash](https://github.com/tair-opensource/TairHash) - A redis module, similar to redis hash, but you can set expiration and version for field.
-
-## Stylus
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 <!-- generated with [llnancy/stars](https://github.com/llnancy/stars.git) -->
