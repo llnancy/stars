@@ -35,6 +35,7 @@
 
 ## Python
 
+*   [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 *   [FizzleDorf/Loopback-Wave-for-A1111-Webui](https://github.com/FizzleDorf/Loopback-Wave-for-A1111-Webui) - Img2img Loopback with Denoise controls over time.
 *   [ClockZinc/sd-webui-IS-NET-pro](https://github.com/ClockZinc/sd-webui-IS-NET-pro) - webui extension
 *   [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
@@ -146,7 +147,6 @@
 *   [fengzhizi715/NetDiscovery](https://github.com/fengzhizi715/NetDiscovery) - NetDiscovery 是一款基于 Vert.x、RxJava 2 等框架实现的通用爬虫框架/中间件。
 *   [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
 *   [apache/commons-digester](https://github.com/apache/commons-digester) - Apache Commons Digester
-*   [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
 
 ## JavaScript
 
