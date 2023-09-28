@@ -98,7 +98,7 @@
 *   [lei-mu/luch-request](https://github.com/lei-mu/luch-request) - luch-request 是一个基于Promise 开发的uni-app跨平台、项目级别的请求库，它有更小的体积，易用的api，方便简单的自定义能力。
 *   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 *   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 *   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
 *   [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) - ⛷ A versatile WeChat typesetting editor，also a cross-platform Markdown note-taking software ⛷ 微信排版编辑器，也是一款跨平台 Markdown 笔记软件
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
