@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -32,6 +32,33 @@
 *   [Astro](#astro)
 *   [C#](#c)
 *   [C](#c-1)
+
+## Python
+
+*   [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
+*   [adieyal/sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts) - A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
+*   [bmaltais/kohya\_ss](https://github.com/bmaltais/kohya_ss) -
+*   [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+*   [FizzleDorf/Loopback-Wave-for-A1111-Webui](https://github.com/FizzleDorf/Loopback-Wave-for-A1111-Webui) - Img2img Loopback with Denoise controls over time.
+*   [ClockZinc/sd-webui-IS-NET-pro](https://github.com/ClockZinc/sd-webui-IS-NET-pro) - webui extension
+*   [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
+*   [Scholar01/sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) - This is the Mov2mov plugin for Automatic1111/stable-diffusion-webui.
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用大模型搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/LinkAI，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
+*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+*   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
+*   [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -
+*   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+*   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+*   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
+*   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+*   [PurityZw/huaban\_images\_spider](https://github.com/PurityZw/huaban_images_spider) - 爬取花瓣网美女图片. http://huaban.com/boards/favorite/beauty/
+*   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
 
 ## Go
 
@@ -75,31 +102,6 @@
 *   [darrynten/vue-adsense](https://github.com/darrynten/vue-adsense) - Google Adsense for Vue
 *   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 *   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-
-## Python
-
-*   [adieyal/sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts) - A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
-*   [bmaltais/kohya\_ss](https://github.com/bmaltais/kohya_ss) -
-*   [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-*   [FizzleDorf/Loopback-Wave-for-A1111-Webui](https://github.com/FizzleDorf/Loopback-Wave-for-A1111-Webui) - Img2img Loopback with Denoise controls over time.
-*   [ClockZinc/sd-webui-IS-NET-pro](https://github.com/ClockZinc/sd-webui-IS-NET-pro) - webui extension
-*   [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
-*   [Scholar01/sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) - This is the Mov2mov plugin for Automatic1111/stable-diffusion-webui.
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用大模型搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/LinkAI，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
-*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-*   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
-*   [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -
-*   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
-*   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
-*   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-*   [PurityZw/huaban\_images\_spider](https://github.com/PurityZw/huaban_images_spider) - 爬取花瓣网美女图片. http://huaban.com/boards/favorite/beauty/
-*   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
 
 ## JavaScript
 
@@ -214,7 +216,6 @@
 *   [fuzhengwei/EasyRiggerInitializr](https://github.com/fuzhengwei/EasyRiggerInitializr) - SpringBoot 脚手架，简化项目构建
 *   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 *   [yuechengzhishang/JavaNetCap](https://github.com/yuechengzhishang/JavaNetCap) - Java通过网络抓包的方式自动生成接口测试脚本工具
-*   [fengzhizi715/NetDiscovery](https://github.com/fengzhizi715/NetDiscovery) - NetDiscovery 是一款基于 Vert.x、RxJava 2 等框架实现的通用爬虫框架/中间件。
 
 ## Rust
 
@@ -245,7 +246,6 @@
 *   [llnancy/jiuguwen](https://github.com/llnancy/jiuguwen) - 面试”九股文”：我比八股多一股！
 *   [flycash/interview-baguwen](https://github.com/flycash/interview-baguwen) - 面试八股文
 *   [idaSmilence/javaDesign](https://github.com/idaSmilence/javaDesign) -
-*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 
 ## Solidity
 
