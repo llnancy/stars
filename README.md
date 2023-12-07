@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Java](#java)
 *   [C#](#c)
 *   [Python](#python)
-*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
@@ -31,6 +31,17 @@
 *   [Erlang](#erlang)
 *   [Markdown](#markdown)
 *   [Astro](#astro)
+
+## Go
+
+*   [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+*   [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+*   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+*   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+*   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
 
 ## Java
 
@@ -107,7 +118,6 @@
 *   [Jaskey/ConsistentHash](https://github.com/Jaskey/ConsistentHash) - A universal Consistent Hash implementation in Java, which supports virtual nodes and user defined hash function
 *   [muyinchen/migo-security](https://github.com/muyinchen/migo-security) - 一个轻量级权限管理系统，包含：管理员管理、角色管理、菜单管理、定时任务、参数管理、代码生成器等
 *   [fuzhengwei/EasyRiggerInitializr](https://github.com/fuzhengwei/EasyRiggerInitializr) - SpringBoot 脚手架，简化项目构建
-*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 
 ## C\#
 
@@ -139,16 +149,6 @@
 *   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
 *   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 *   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-
-## Go
-
-*   [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-*   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-*   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
-*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-*   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
 
 ## TypeScript
 
