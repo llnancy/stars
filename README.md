@@ -53,7 +53,7 @@
 *   [asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql) - Reactive Relational Database Connectivity for MySQL. The official successor to mirromutth/r2dbc-mysql(dev.miku:r2dbc-mysql).
 *   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 *   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
-*   [alipay/fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
+*   [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
 *   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Manager; Open-source codebase mirror
 *   [spring-projects-experimental/spring-cloud-square](https://github.com/spring-projects-experimental/spring-cloud-square) - Spring Cloud auto-configuration of Retrofit and OkHttp (with Spring Cloud LoadBalancer).
 *   [llnancy/httpexchange-spring-boot-starter](https://github.com/llnancy/httpexchange-spring-boot-starter) - An enhancement to the Spring Boot 3.x HTTP Interface, using the HTTP Interface in Spring Boot 3.x like using @FeignClient and @RetrofitClient.
@@ -63,7 +63,7 @@
 *   [msgpack/msgpack-java](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java / msgpack.org\[Java]
 *   [lgb020/diancan](https://github.com/lgb020/diancan) - sprnigboot和微信小程序实现点餐系统（全栈开发之微信小程序点餐）
 *   [SpringCloud/Moss](https://github.com/SpringCloud/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
-*   [joyrpc/joyrpc](https://github.com/joyrpc/joyrpc) - high-performance, high-extensibility Java rpc framework.
+*   [jd-opensource/joyrpc](https://github.com/jd-opensource/joyrpc) - high-performance, high-extensibility Java rpc framework.
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 *   [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 *   [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
@@ -128,7 +128,7 @@
 
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 *   [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 *   [adieyal/sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts) - A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
 *   [bmaltais/kohya\_ss](https://github.com/bmaltais/kohya_ss) -
 *   [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
