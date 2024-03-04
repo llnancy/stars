@@ -34,6 +34,7 @@
 
 ## JavaScript
 
+*   [Tencent/LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow) - This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.
 *   [TaleAi/markdown2html](https://github.com/TaleAi/markdown2html) - 一款markdown转html，支持掘金、知乎、微信公众号，fork自markdown nice
 *   [jexom/sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) - Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui
 *   [lei-mu/luch-request](https://github.com/lei-mu/luch-request) - luch-request 是一个基于Promise 开发的uni-app跨平台、项目级别的请求库，它有更小的体积，易用的api，方便简单的自定义能力。
@@ -159,7 +160,6 @@
 *   [xiaolyuh/layering-cache](https://github.com/xiaolyuh/layering-cache) - 为监控而生的分布式多级缓存框架
 *   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 *   [Jaskey/ConsistentHash](https://github.com/Jaskey/ConsistentHash) - A universal Consistent Hash implementation in Java, which supports virtual nodes and user defined hash function
-*   [muyinchen/migo-security](https://github.com/muyinchen/migo-security) - 一个轻量级权限管理系统，包含：管理员管理、角色管理、菜单管理、定时任务、参数管理、代码生成器等
 
 ## Go
 
