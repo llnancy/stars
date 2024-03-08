@@ -195,7 +195,7 @@
 ## Vue
 
 *   [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
-*   [dingshaohua-cn/vuepress-plugin-anchor-right](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right) -
+*   [dingshaohua-com/vuepress-plugin-anchor-right](https://github.com/dingshaohua-com/vuepress-plugin-anchor-right) -
 *   [calebman/ant-design-vue-hign](https://github.com/calebman/ant-design-vue-hign) - High-level component library based on ant-design-vue
 *   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 *   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
