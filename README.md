@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Java](#java)
@@ -19,7 +20,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 *   [CSS](#css)
-*   [miscellaneous](#miscellaneous)
 *   [Solidity](#solidity)
 *   [PowerShell](#powershell)
 *   [Scala](#scala)
@@ -31,6 +31,22 @@
 *   [Erlang](#erlang)
 *   [Markdown](#markdown)
 *   [Astro](#astro)
+
+## miscellaneous
+
+*   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
+*   [llnancy/stars](https://github.com/llnancy/stars) - awesome my stars - https://llnancy.github.io/stars/
+*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+*   [zszdevelop/java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook) - java学习gitbook笔记 http://java.isture.com
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+*   [llnancy/jiuguwen](https://github.com/llnancy/jiuguwen) - 面试”九股文”：我比八股多一股！
 
 ## JavaScript
 
@@ -78,7 +94,7 @@
 *   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 *   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
-*   [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) -
+*   [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) -
 *   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 *   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -159,7 +175,6 @@
 *   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 *   [xiaolyuh/layering-cache](https://github.com/xiaolyuh/layering-cache) - 为监控而生的分布式多级缓存框架
 *   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
-*   [Jaskey/ConsistentHash](https://github.com/Jaskey/ConsistentHash) - A universal Consistent Hash implementation in Java, which supports virtual nodes and user defined hash function
 
 ## Go
 
@@ -235,21 +250,6 @@
 *   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 *   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 *   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
-
-## miscellaneous
-
-*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
-*   [llnancy/stars](https://github.com/llnancy/stars) - awesome my stars - https://llnancy.github.io/stars/
-*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-*   [zszdevelop/java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook) - java学习gitbook笔记 http://java.isture.com
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-*   [llnancy/jiuguwen](https://github.com/llnancy/jiuguwen) - 面试”九股文”：我比八股多一股！
 
 ## Solidity
 
