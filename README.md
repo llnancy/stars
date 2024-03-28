@@ -150,7 +150,7 @@
 *   [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
 *   [asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql) - Reactive Relational Database Connectivity for MySQL. The official successor to mirromutth/r2dbc-mysql(dev.miku:r2dbc-mysql).
 *   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
-*   [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
+*   [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 *   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Manager; Open-source codebase mirror
 *   [spring-projects-experimental/spring-cloud-square](https://github.com/spring-projects-experimental/spring-cloud-square) - Spring Cloud auto-configuration of Retrofit and OkHttp (with Spring Cloud LoadBalancer).
 *   [llnancy/httpexchange-spring-boot-starter](https://github.com/llnancy/httpexchange-spring-boot-starter) - An enhancement to the Spring Boot 3.x HTTP Interface, using the HTTP Interface in Spring Boot 3.x like using @FeignClient and @RetrofitClient.
