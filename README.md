@@ -273,7 +273,7 @@
 
 ## Kotlin
 
-*   [tsonglew/intellij-etcdhelper](https://github.com/tsonglew/intellij-etcdhelper) - a simple intellij platform etcd plugin
+*   [tsonglew/intellij-etcdhelper](https://github.com/tsonglew/intellij-etcdhelper) - IntelliJ platform etcd plugin
 *   [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
 *   [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 
