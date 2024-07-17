@@ -53,6 +53,7 @@
 *   [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
 *   [native-group/native-spi](https://github.com/native-group/native-spi) - A lightweight Java SPI implementation, referring to Apache Dubbo SPI.
 *   [msgpack/msgpack-java](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java / msgpack.org\[Java]
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 *   [lgb020/diancan](https://github.com/lgb020/diancan) - sprnigboot和微信小程序实现点餐系统（全栈开发之微信小程序点餐）
 *   [GrailStack/Moss](https://github.com/GrailStack/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
 *   [jd-opensource/joyrpc](https://github.com/jd-opensource/joyrpc) - high-performance, high-extensibility Java rpc framework.
@@ -154,7 +155,6 @@
 
 *   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 *   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 *   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 *   [llnancy/stars](https://github.com/llnancy/stars) - awesome my stars - https://llnancy.github.io/stars/
 *   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
