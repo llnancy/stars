@@ -34,6 +34,7 @@
 
 ## Java
 
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 *   [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 *   [apache/flink](https://github.com/apache/flink) - Apache Flink
 *   [mathieucarbou/license-maven-plugin](https://github.com/mathieucarbou/license-maven-plugin) - Manage license headers in your source files
@@ -102,7 +103,6 @@
 *   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 *   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 *   [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-*   [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) - JSON-RPC for Java
 
 ## TypeScript
 
