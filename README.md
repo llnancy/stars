@@ -9,9 +9,9 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [HTML](#html)
 *   [Java](#java)
@@ -34,6 +34,7 @@
 
 ## TypeScript
 
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 *   [heikaimu/vue3-waterfall-plugin](https://github.com/heikaimu/vue3-waterfall-plugin) - vue3 瀑布流插件，支持 PC 和移动端，支持 animate 的所有动画效果，支持图片懒加载
 *   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 *   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
@@ -50,10 +51,36 @@
 *   [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) - ⛷ A versatile WeChat typesetting editor，also a cross-platform Markdown note-taking software ⛷ 微信排版编辑器，也是一款跨平台 Markdown 笔记软件
 *   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 *   [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-*   [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
+
+## JavaScript
+
+*   [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
+*   [mengkunsoft/wallpaper](https://github.com/mengkunsoft/wallpaper) - 🌼 基于 360壁纸 API 的自采集壁纸网站
+*   [Tencent/LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow) - This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.
+*   [TaleAi/markdown2html](https://github.com/TaleAi/markdown2html) - 一款markdown转html，支持掘金、知乎、微信公众号，fork自markdown nice
+*   [jexom/sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) - Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui
+*   [lei-mu/luch-request](https://github.com/lei-mu/luch-request) - luch-request 是一个基于Promise 开发的uni-app跨平台、项目级别的请求库，它有更小的体积，易用的api，方便简单的自定义能力。
+*   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+*   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+*   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
+*   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+*   [michaelliao/shici](https://github.com/michaelliao/shici) - 中华诗词网站 www.shi-ci.com 诗词文件及源码
+*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+*   [taniarascia/webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) - 📦 ‎ A sensible webpack 5 boilerplate.
+*   [HoYuenhang/aNavigation](https://github.com/HoYuenhang/aNavigation) - 单纯就是一个导航。
+*   [maligree/python-ast-explorer](https://github.com/maligree/python-ast-explorer) - The code behind python-ast-explorer.com
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
+*   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+*   [llnancy/sunchaser-frontend](https://github.com/llnancy/sunchaser-frontend) - 前端学习记录。React/ReactRouter/TypeScript
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+*   [couds/react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 
 ## Vue
 
+*   [luohc92/vue3-image-viewer](https://github.com/luohc92/vue3-image-viewer) - A image viewer for vue3.x  一款vue3.0的图片查看器
 *   [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
 *   [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
 *   [dingshaohua-com/vuepress-plugin-anchor-right](https://github.com/dingshaohua-com/vuepress-plugin-anchor-right) -
@@ -97,32 +124,6 @@
 *   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 *   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
-
-## JavaScript
-
-*   [mengkunsoft/wallpaper](https://github.com/mengkunsoft/wallpaper) - 🌼 基于 360壁纸 API 的自采集壁纸网站
-*   [Tencent/LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow) - This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.
-*   [TaleAi/markdown2html](https://github.com/TaleAi/markdown2html) - 一款markdown转html，支持掘金、知乎、微信公众号，fork自markdown nice
-*   [jexom/sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) - Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui
-*   [lei-mu/luch-request](https://github.com/lei-mu/luch-request) - luch-request 是一个基于Promise 开发的uni-app跨平台、项目级别的请求库，它有更小的体积，易用的api，方便简单的自定义能力。
-*   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-*   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-*   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
-*   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-*   [michaelliao/shici](https://github.com/michaelliao/shici) - 中华诗词网站 www.shi-ci.com 诗词文件及源码
-*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-*   [taniarascia/webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) - 📦 ‎ A sensible webpack 5 boilerplate.
-*   [HoYuenhang/aNavigation](https://github.com/HoYuenhang/aNavigation) - 单纯就是一个导航。
-*   [maligree/python-ast-explorer](https://github.com/maligree/python-ast-explorer) - The code behind python-ast-explorer.com
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
-*   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-*   [llnancy/sunchaser-frontend](https://github.com/llnancy/sunchaser-frontend) - 前端学习记录。React/ReactRouter/TypeScript
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-*   [couds/react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
-*   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 
 ## Go
 
@@ -215,7 +216,6 @@
 *   [amaembo/streamex](https://github.com/amaembo/streamex) - Enhancing Java Stream API
 *   [apolloconfig/apollo-use-cases](https://github.com/apolloconfig/apollo-use-cases) - Show various usage scenarios and sample codes of the Apollo configuration center, welcome to share more configuration use cases in your daily work!
 *   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## miscellaneous
 
