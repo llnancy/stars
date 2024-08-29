@@ -50,7 +50,6 @@
 *   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 *   [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) - ⛷ A versatile WeChat typesetting editor，also a cross-platform Markdown note-taking software ⛷ 微信排版编辑器，也是一款跨平台 Markdown 笔记软件
 *   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
 ## JavaScript
@@ -77,6 +76,7 @@
 *   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 *   [llnancy/sunchaser-frontend](https://github.com/llnancy/sunchaser-frontend) - 前端学习记录。React/ReactRouter/TypeScript
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [couds/react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 
 ## Vue
