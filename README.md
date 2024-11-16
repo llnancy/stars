@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Java](#java)
@@ -15,7 +16,6 @@
 *   [Vue](#vue)
 *   [Go](#go)
 *   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -30,6 +30,20 @@
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
 *   [Markdown](#markdown)
+
+## miscellaneous
+
+*   [ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - Official repository of In-Context LoRA for Diffusion Transformers
+*   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
+*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
+*   [llnancy/stars](https://github.com/llnancy/stars) - awesome my stars - https://llnancy.github.io/stars/
+*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+*   [zszdevelop/java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook) - java学习gitbook笔记 http://java.isture.com
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
 ## Python
 
@@ -220,19 +234,6 @@
 *   [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file. Fork From:jwenjian/visitor-badge
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
-## miscellaneous
-
-*   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
-*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
-*   [llnancy/stars](https://github.com/llnancy/stars) - awesome my stars - https://llnancy.github.io/stars/
-*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-*   [zszdevelop/java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook) - java学习gitbook笔记 http://java.isture.com
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-
 ## C\#
 
 *   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
@@ -261,7 +262,6 @@
 ## CSS
 
 *   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
-*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
 
 ## PowerShell
 
