@@ -47,7 +47,7 @@
 
 ## Python
 
-*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms, vlm, gguf such as llama-3.2, Linkage graphRAG / RAG
+*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms, vlm, gguf such as llama-3.3, Linkage graphRAG / RAG
 *   [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 *   [kijai/ComfyUI-FluxTrainer](https://github.com/kijai/ComfyUI-FluxTrainer) -
 *   [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
