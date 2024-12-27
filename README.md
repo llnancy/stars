@@ -214,7 +214,7 @@
 
 ## Go
 
-*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale seamlessly. It’s the ideal solution for powering Generative AI applications. Proudly developed and maintained by Zilliz.
+*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale.
 *   [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 *   [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
