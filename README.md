@@ -27,6 +27,7 @@
 *   [Kotlin](#kotlin)
 *   [Objective-C](#objective-c)
 *   [SCSS](#scss)
+*   [Groovy](#groovy)
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
 
@@ -158,7 +159,6 @@
 *   [eclipse-lsp4j/lsp4j](https://github.com/eclipse-lsp4j/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
 *   [oVirt/vdsm-jsonrpc-java](https://github.com/oVirt/vdsm-jsonrpc-java) - JSON RPC Java client for oVirt
 *   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
-*   [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java
 *   [llnancy/xuejian](https://github.com/llnancy/xuejian) - ❄️ 雪见 - Spring Boot 实战及整合主流开源框架。MyBatis-Plus/RabbitMQ/GraphQL/MongoDB/Spring-Security/Apollo
 *   [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 *   [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
@@ -284,6 +284,10 @@
 ## SCSS
 
 *   [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - \[No Longer Maintained] A simple, elegant, book-like hexo theme with some useful features.
+
+## Groovy
+
+*   [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java
 
 ## Dockerfile
 
