@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
@@ -31,13 +31,9 @@
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
 
-## Jupyter Notebook
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-*   [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
-
 ## Python
 
+*   [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) -
 *   [chflame163/ComfyUI\_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
 *   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
 *   [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
@@ -71,6 +67,11 @@
 *   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 *   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+
+## Jupyter Notebook
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
 
 ## Go
 
@@ -226,7 +227,6 @@
 *   [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 *   [chenxuan0000/vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - :tada: vue canvas动效库
 *   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-*   [EsunR/Blog-Index](https://github.com/EsunR/Blog-Index) - 一个通用的个人网站的引导页、导航页模板
 
 ## HTML
 
