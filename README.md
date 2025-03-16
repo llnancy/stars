@@ -32,6 +32,7 @@
 
 ## Python
 
+*   [cocktailpeanut/fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 *   [llnancy/ComfyUI\_Silky](https://github.com/llnancy/ComfyUI_Silky) - Some ComfyUI nodes
 *   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 *   [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) -
@@ -202,7 +203,6 @@
 *   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 *   [llnancy/xuejian](https://github.com/llnancy/xuejian) - ❄️ 雪见 - Spring Boot 实战及整合主流开源框架。MyBatis-Plus/RabbitMQ/GraphQL/MongoDB/Spring-Security/Apollo
 *   [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
-*   [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
 
 ## TypeScript
 
