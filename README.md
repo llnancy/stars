@@ -38,6 +38,7 @@
 
 ## Python
 
+*   [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 *   [CY-CHENYUE/ComfyUI-Gemini-API](https://github.com/CY-CHENYUE/ComfyUI-Gemini-API) -
 *   [ShmuelRonen/ComfyUI-Gemini\_Flash\_2.0\_Exp](https://github.com/ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp) - A ComfyUI custom node that integrates Google's Gemini Flash 2.0 Experimental model, enabling multimodal analysis of text, images, video frames, and audio directly within ComfyUI workflows.
 *   [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具
@@ -187,7 +188,6 @@
 *   [llnancy/mojian](https://github.com/llnancy/mojian) - 魔剑 - 业务开发工具集
 *   [llnancy/xxl-job-source-notes](https://github.com/llnancy/xxl-job-source-notes) - 许雪里老师的分布式任务调度平台XXL-JOB源码阅读笔记
 *   [yinabameguru/my\_sns](https://github.com/yinabameguru/my_sns) - 社交网络通用服务，目前版本为version1.1.0，version2.0.0开发中。为用户提供社交服务的基本功能。具体功能和模块请看readme
-*   [spring-projects/spring-statemachine](https://github.com/spring-projects/spring-statemachine) - Spring Statemachine is a framework for application developers to use state machine concepts with Spring.
 
 ## Jupyter Notebook
 
@@ -247,7 +247,7 @@
 
 ## Go
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 *   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 *   [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 *   [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
