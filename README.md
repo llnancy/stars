@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
-*   [Java](#java)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Go](#go)
@@ -35,6 +35,104 @@
 *   [Astro](#astro)
 *   [C](#c-1)
 *   [Stylus](#stylus)
+
+## Java
+
+*   [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+*   [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
+*   [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
+*   [llnancy/upload4j](https://github.com/llnancy/upload4j) - 基于 SPI 机制实现的通用文件上传组件。目前已支持本地磁盘/又拍云，且支持 Reactive 模式，可自行扩展。
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+*   [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+*   [apache/flink](https://github.com/apache/flink) - Apache Flink
+*   [mathieucarbou/license-maven-plugin](https://github.com/mathieucarbou/license-maven-plugin) - Manage license headers in your source files
+*   [spring-io/spring-javaformat](https://github.com/spring-io/spring-javaformat) -
+*   [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
+*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
+*   [salesforce/reactive-grpc](https://github.com/salesforce/reactive-grpc) - Reactive stubs for gRPC
+*   [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) - Spring Data Relational. Home of Spring Data JDBC and Spring Data R2DBC.
+*   [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
+*   [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
+*   [asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql) - Reactive Relational Database Connectivity for MySQL. The official successor to mirromutth/r2dbc-mysql(dev.miku:r2dbc-mysql).
+*   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
+*   [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+*   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
+*   [spring-projects-experimental/spring-cloud-square](https://github.com/spring-projects-experimental/spring-cloud-square) - Spring Cloud auto-configuration of Retrofit and OkHttp (with Spring Cloud LoadBalancer).
+*   [llnancy/httpexchange-spring-boot-starter](https://github.com/llnancy/httpexchange-spring-boot-starter) - An enhancement to the Spring Boot 3.x HTTP Interface, using the HTTP Interface in Spring Boot 3.x like using @FeignClient and @RetrofitClient.
+*   [LianjiaTech/retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot-starter，支持快速集成和功能增强）
+*   [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
+*   [native-group/native-spi](https://github.com/native-group/native-spi) - A lightweight Java SPI implementation, referring to Apache Dubbo SPI.
+*   [msgpack/msgpack-java](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java / msgpack.org\[Java]
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+*   [lgb020/diancan](https://github.com/lgb020/diancan) - sprnigboot和微信小程序实现点餐系统（全栈开发之微信小程序点餐）
+*   [GrailStack/Moss](https://github.com/GrailStack/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
+*   [jd-opensource/joyrpc](https://github.com/jd-opensource/joyrpc) - high-performance, high-extensibility Java rpc framework.
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+*   [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
+*   [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
+*   [llnancy/zhenyaojian](https://github.com/llnancy/zhenyaojian) - ⚔ 镇妖剑 - 权限管理系统（基于 Spring Boot + MyBatis-Plus + Spring Security）
+*   [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+*   [murraco/spring-boot-jwt](https://github.com/murraco/spring-boot-jwt) - JWT auth service using Spring Boot, Spring Security and MySQL
+*   [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+*   [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+*   [grpc-ecosystem/grpc-spring](https://github.com/grpc-ecosystem/grpc-spring) - Spring Boot starter module for gRPC framework.
+*   [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
+*   [rbmonster/learning-note](https://github.com/rbmonster/learning-note) - Java开发及面试（个人面试、工作总结、资料收集站）
+*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+*   [stateless4j/stateless4j](https://github.com/stateless4j/stateless4j) - Lightweight Java State Machine
+*   [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
+*   [llnancy/dog-box](https://github.com/llnancy/dog-box) - 🐶 将今天的《舔狗日记》更新到 Gist / profile README
+*   [yeecode/ObjectLogger](https://github.com/yeecode/ObjectLogger) - A powerful and easy-to-use operational logging system that supports analysis of changes in object properties. 强大且易用的操作日志记录系统,支持对象属性的变化分析。
+*   [tang-jie/NettyRPC](https://github.com/tang-jie/NettyRPC) - NettyRPC is high performance java rpc server base on Netty,using kryo,hessian,protostuff support message serialization.
+*   [gloriawish/rpc](https://github.com/gloriawish/rpc) - 参加阿里巴巴中间件比赛时的rpc项目源码，高性能RPC框架
+*   [gloriawish/mom\_v2](https://github.com/gloriawish/mom_v2) - 参加阿里巴巴中间件比赛时的mom项目源码(版本2)
+*   [huaweicloud/spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) - Spring Cloud Huawei is a framework that makes it easier and productive to develop microservices with Spring Cloud.
+*   [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
+*   [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core
+*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
+*   [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
+*   [llnancy/longkui](https://github.com/llnancy/longkui) - 🌻 龙葵：一个基于 Netty 实现的高性能 RPC 框架（LongKui: A high performance RPC framework based on Netty.）
+*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+*   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
+*   [eclipse-lsp4j/lsp4j](https://github.com/eclipse-lsp4j/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
+*   [oVirt/vdsm-jsonrpc-java](https://github.com/oVirt/vdsm-jsonrpc-java) - JSON RPC Java client for oVirt
+*   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
+*   [llnancy/xuejian](https://github.com/llnancy/xuejian) - ❄️ 雪见 - Spring Boot 实战及整合主流开源框架。MyBatis-Plus/RabbitMQ/GraphQL/MongoDB/Spring-Security/Apollo
+*   [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
+*   [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
+*   [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
+*   [llnancy/huaying](https://github.com/llnancy/huaying) - 🧚‍♀️ 花楹 - 一个基于 Spring Boot 构建的随机资源 API 服务。可作为随机图片 API，用于网站背景图等。
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+*   [amaembo/streamex](https://github.com/amaembo/streamex) - Enhancing Java Stream API
+*   [apolloconfig/apollo-use-cases](https://github.com/apolloconfig/apollo-use-cases) - Show various usage scenarios and sample codes of the Apollo configuration center, welcome to share more configuration use cases in your daily work!
+*   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+*   [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+*   [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) - JSON-RPC for Java
+*   [eclipse-jdtls/eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
+*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+*   [xiaolyuh/layering-cache](https://github.com/xiaolyuh/layering-cache) - 为监控而生的分布式多级缓存框架
+*   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
+*   [Jaskey/ConsistentHash](https://github.com/Jaskey/ConsistentHash) - A universal Consistent Hash implementation in Java, which supports virtual nodes and user defined hash function
+*   [muyinchen/migo-security](https://github.com/muyinchen/migo-security) - 一个轻量级权限管理系统，包含：管理员管理、角色管理、菜单管理、定时任务、参数管理、代码生成器等
+*   [fuzhengwei/EasyRiggerInitializr](https://github.com/fuzhengwei/EasyRiggerInitializr) - SpringBoot 脚手架，简化项目构建
+*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+*   [yuechengzhishang/JavaNetCap](https://github.com/yuechengzhishang/JavaNetCap) - Java通过网络抓包的方式自动生成接口测试脚本工具
+*   [fengzhizi715/NetDiscovery](https://github.com/fengzhizi715/NetDiscovery) - NetDiscovery 是一款基于 Vert.x、RxJava 2 等框架实现的通用爬虫框架/中间件。
+*   [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
+*   [apache/commons-digester](https://github.com/apache/commons-digester) - Apache Commons Digester
+*   [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
+*   [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
+*   [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+*   [javthon/mybatis-generator-yml-maven-plugin](https://github.com/javthon/mybatis-generator-yml-maven-plugin) - MyBatis Generator yml configuration, lombok plugin, swagger plugin support
+*   [softwareloop/mybatis-generator-lombok-plugin](https://github.com/softwareloop/mybatis-generator-lombok-plugin) - A plugin for MyBatis Generator to use Lombok annotations instead of getters and setters
+*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+*   [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
+*   [llnancy/mojian](https://github.com/llnancy/mojian) - 魔剑 - 业务开发工具集
 
 ## TypeScript
 
@@ -176,104 +274,6 @@
 *   [JalanJiang/2019-github-annual-report](https://github.com/JalanJiang/2019-github-annual-report) - GitHub 2019 年度报告
 *   [wistbean/learn\_python3\_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
 *   [topiccrawler/jkcrawler](https://github.com/topiccrawler/jkcrawler) - 使用 Scrapy 写成的 JK 爬虫，图片源自哔哩哔哩、Tumblr、Instagram，以及微博、Twitter
-
-## Java
-
-*   [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
-*   [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
-*   [llnancy/upload4j](https://github.com/llnancy/upload4j) - 基于 SPI 机制实现的通用文件上传组件。目前已支持本地磁盘/又拍云，且支持 Reactive 模式，可自行扩展。
-*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
-*   [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-*   [apache/flink](https://github.com/apache/flink) - Apache Flink
-*   [mathieucarbou/license-maven-plugin](https://github.com/mathieucarbou/license-maven-plugin) - Manage license headers in your source files
-*   [spring-io/spring-javaformat](https://github.com/spring-io/spring-javaformat) -
-*   [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
-*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
-*   [salesforce/reactive-grpc](https://github.com/salesforce/reactive-grpc) - Reactive stubs for gRPC
-*   [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) - Spring Data Relational. Home of Spring Data JDBC and Spring Data R2DBC.
-*   [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
-*   [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
-*   [asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql) - Reactive Relational Database Connectivity for MySQL. The official successor to mirromutth/r2dbc-mysql(dev.miku:r2dbc-mysql).
-*   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
-*   [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
-*   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
-*   [spring-projects-experimental/spring-cloud-square](https://github.com/spring-projects-experimental/spring-cloud-square) - Spring Cloud auto-configuration of Retrofit and OkHttp (with Spring Cloud LoadBalancer).
-*   [llnancy/httpexchange-spring-boot-starter](https://github.com/llnancy/httpexchange-spring-boot-starter) - An enhancement to the Spring Boot 3.x HTTP Interface, using the HTTP Interface in Spring Boot 3.x like using @FeignClient and @RetrofitClient.
-*   [LianjiaTech/retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot-starter，支持快速集成和功能增强）
-*   [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
-*   [native-group/native-spi](https://github.com/native-group/native-spi) - A lightweight Java SPI implementation, referring to Apache Dubbo SPI.
-*   [msgpack/msgpack-java](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java / msgpack.org\[Java]
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-*   [lgb020/diancan](https://github.com/lgb020/diancan) - sprnigboot和微信小程序实现点餐系统（全栈开发之微信小程序点餐）
-*   [GrailStack/Moss](https://github.com/GrailStack/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
-*   [jd-opensource/joyrpc](https://github.com/jd-opensource/joyrpc) - high-performance, high-extensibility Java rpc framework.
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-*   [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
-*   [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
-*   [llnancy/zhenyaojian](https://github.com/llnancy/zhenyaojian) - ⚔ 镇妖剑 - 权限管理系统（基于 Spring Boot + MyBatis-Plus + Spring Security）
-*   [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
-*   [murraco/spring-boot-jwt](https://github.com/murraco/spring-boot-jwt) - JWT auth service using Spring Boot, Spring Security and MySQL
-*   [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
-*   [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-*   [grpc-ecosystem/grpc-spring](https://github.com/grpc-ecosystem/grpc-spring) - Spring Boot starter module for gRPC framework.
-*   [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
-*   [rbmonster/learning-note](https://github.com/rbmonster/learning-note) - Java开发及面试（个人面试、工作总结、资料收集站）
-*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-*   [stateless4j/stateless4j](https://github.com/stateless4j/stateless4j) - Lightweight Java State Machine
-*   [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
-*   [llnancy/dog-box](https://github.com/llnancy/dog-box) - 🐶 将今天的《舔狗日记》更新到 Gist / profile README
-*   [yeecode/ObjectLogger](https://github.com/yeecode/ObjectLogger) - A powerful and easy-to-use operational logging system that supports analysis of changes in object properties. 强大且易用的操作日志记录系统,支持对象属性的变化分析。
-*   [tang-jie/NettyRPC](https://github.com/tang-jie/NettyRPC) - NettyRPC is high performance java rpc server base on Netty,using kryo,hessian,protostuff support message serialization.
-*   [gloriawish/rpc](https://github.com/gloriawish/rpc) - 参加阿里巴巴中间件比赛时的rpc项目源码，高性能RPC框架
-*   [gloriawish/mom\_v2](https://github.com/gloriawish/mom_v2) - 参加阿里巴巴中间件比赛时的mom项目源码(版本2)
-*   [huaweicloud/spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) - Spring Cloud Huawei is a framework that makes it easier and productive to develop microservices with Spring Cloud.
-*   [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
-*   [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core
-*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
-*   [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
-*   [llnancy/longkui](https://github.com/llnancy/longkui) - 🌻 龙葵：一个基于 Netty 实现的高性能 RPC 框架（LongKui: A high performance RPC framework based on Netty.）
-*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
-*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
-*   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
-*   [eclipse-lsp4j/lsp4j](https://github.com/eclipse-lsp4j/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
-*   [oVirt/vdsm-jsonrpc-java](https://github.com/oVirt/vdsm-jsonrpc-java) - JSON RPC Java client for oVirt
-*   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
-*   [llnancy/xuejian](https://github.com/llnancy/xuejian) - ❄️ 雪见 - Spring Boot 实战及整合主流开源框架。MyBatis-Plus/RabbitMQ/GraphQL/MongoDB/Spring-Security/Apollo
-*   [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
-*   [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
-*   [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
-*   [llnancy/huaying](https://github.com/llnancy/huaying) - 🧚‍♀️ 花楹 - 一个基于 Spring Boot 构建的随机资源 API 服务。可作为随机图片 API，用于网站背景图等。
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-*   [amaembo/streamex](https://github.com/amaembo/streamex) - Enhancing Java Stream API
-*   [apolloconfig/apollo-use-cases](https://github.com/apolloconfig/apollo-use-cases) - Show various usage scenarios and sample codes of the Apollo configuration center, welcome to share more configuration use cases in your daily work!
-*   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-*   [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-*   [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) - JSON-RPC for Java
-*   [eclipse-jdtls/eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
-*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
-*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-*   [xiaolyuh/layering-cache](https://github.com/xiaolyuh/layering-cache) - 为监控而生的分布式多级缓存框架
-*   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
-*   [Jaskey/ConsistentHash](https://github.com/Jaskey/ConsistentHash) - A universal Consistent Hash implementation in Java, which supports virtual nodes and user defined hash function
-*   [muyinchen/migo-security](https://github.com/muyinchen/migo-security) - 一个轻量级权限管理系统，包含：管理员管理、角色管理、菜单管理、定时任务、参数管理、代码生成器等
-*   [fuzhengwei/EasyRiggerInitializr](https://github.com/fuzhengwei/EasyRiggerInitializr) - SpringBoot 脚手架，简化项目构建
-*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-*   [yuechengzhishang/JavaNetCap](https://github.com/yuechengzhishang/JavaNetCap) - Java通过网络抓包的方式自动生成接口测试脚本工具
-*   [fengzhizi715/NetDiscovery](https://github.com/fengzhizi715/NetDiscovery) - NetDiscovery 是一款基于 Vert.x、RxJava 2 等框架实现的通用爬虫框架/中间件。
-*   [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
-*   [apache/commons-digester](https://github.com/apache/commons-digester) - Apache Commons Digester
-*   [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
-*   [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
-*   [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
-*   [javthon/mybatis-generator-yml-maven-plugin](https://github.com/javthon/mybatis-generator-yml-maven-plugin) - MyBatis Generator yml configuration, lombok plugin, swagger plugin support
-*   [softwareloop/mybatis-generator-lombok-plugin](https://github.com/softwareloop/mybatis-generator-lombok-plugin) - A plugin for MyBatis Generator to use Lombok annotations instead of getters and setters
-*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-*   [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
-*   [llnancy/mojian](https://github.com/llnancy/mojian) - 魔剑 - 业务开发工具集
-*   [llnancy/xxl-job-source-notes](https://github.com/llnancy/xxl-job-source-notes) - 许雪里老师的分布式任务调度平台XXL-JOB源码阅读笔记
 
 ## Jupyter Notebook
 
