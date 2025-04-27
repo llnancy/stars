@@ -8,12 +8,12 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -35,6 +35,14 @@
 *   [Astro](#astro)
 *   [C](#c-1)
 *   [Stylus](#stylus)
+
+## Jupyter Notebook
+
+*   [PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) - 深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI
+*   [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
+*   [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
 
 ## Python
 
@@ -114,7 +122,6 @@
 *   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 *   [lmhmhl/Resilience4j-Guides-Chinese](https://github.com/lmhmhl/Resilience4j-Guides-Chinese) - Resilience4j guides in chinese version
 *   [SpringCloud/spring-cloud-document](https://github.com/SpringCloud/spring-cloud-document) - Spring Cloud中国社区线下沙龙文档
-*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 
 ## Java
 
@@ -274,13 +281,6 @@
 *   [EasyHexo/Easy-Hexo](https://github.com/EasyHexo/Easy-Hexo) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
 *   [liumulin614/BeautifulGirl](https://github.com/liumulin614/BeautifulGirl) - Wechat APP Sample: An app shows pictures of beautiful girls
 *   [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
-
-## Jupyter Notebook
-
-*   [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
-*   [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-*   [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
 
 ## HTML
 
