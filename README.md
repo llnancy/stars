@@ -15,6 +15,7 @@
 *   [Python](#python)
 *   [Java](#java)
 *   [JavaScript](#javascript)
+*   [templ](#templ)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -71,7 +72,6 @@
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 *   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-*   [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
 *   [ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - Official repository of In-Context LoRA for Diffusion Transformers
 *   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 *   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
@@ -286,6 +286,10 @@
 *   [EasyHexo/Easy-Hexo](https://github.com/EasyHexo/Easy-Hexo) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
 *   [liumulin614/BeautifulGirl](https://github.com/liumulin614/BeautifulGirl) - Wechat APP Sample: An app shows pictures of beautiful girls
 *   [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
+
+## templ
+
+*   [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
 
 ## HTML
 
