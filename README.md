@@ -29,7 +29,6 @@
 *   [Objective-C](#objective-c)
 *   [MDX](#mdx)
 *   [SCSS](#scss)
-*   [Groovy](#groovy)
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
 *   [Markdown](#markdown)
@@ -105,7 +104,7 @@
 *   [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
 *   [Scholar01/sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) - This is the Mov2mov plugin for Automatic1111/stable-diffusion-webui.
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 *   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 *   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -225,6 +224,7 @@
 *   [eclipse-lsp4j/lsp4j](https://github.com/eclipse-lsp4j/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
 *   [oVirt/vdsm-jsonrpc-java](https://github.com/oVirt/vdsm-jsonrpc-java) - JSON RPC Java client for oVirt
 *   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
+*   [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java
 *   [llnancy/xuejian](https://github.com/llnancy/xuejian) - ❄️ 雪见 - Spring Boot 实战及整合主流开源框架。MyBatis-Plus/RabbitMQ/GraphQL/MongoDB/Spring-Security/Apollo
 *   [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 *   [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
@@ -391,10 +391,6 @@
 ## SCSS
 
 *   [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - \[No Longer Maintained] A simple, elegant, book-like hexo theme with some useful features.
-
-## Groovy
-
-*   [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java
 
 ## Dockerfile
 
