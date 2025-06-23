@@ -32,7 +32,6 @@
 *   [Dockerfile](#dockerfile)
 *   [Erlang](#erlang)
 *   [Markdown](#markdown)
-*   [Astro](#astro)
 *   [C](#c-1)
 
 ## miscellaneous
@@ -161,6 +160,7 @@
 *   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 *   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 *   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Java
 
@@ -403,10 +403,6 @@
 ## Markdown
 
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-
-## Astro
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## C
 
