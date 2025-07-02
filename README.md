@@ -36,6 +36,7 @@
 
 ## Python
 
+*   [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 *   [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
@@ -44,7 +45,6 @@
 *   [lquesada/ComfyUI-Inpaint-CropAndStitch](https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch) - ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
 *   [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 *   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 *   [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 *   [CY-CHENYUE/ComfyUI-Gemini-API](https://github.com/CY-CHENYUE/ComfyUI-Gemini-API) -
 *   [ShmuelRonen/ComfyUI-Gemini\_Flash\_2.0\_Exp](https://github.com/ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp) - A ComfyUI custom node that integrates Google's Gemini Flash 2.0 Experimental model, enabling multimodal analysis of text, images, video frames, and audio directly within ComfyUI workflows.
@@ -116,7 +116,6 @@
 *   [flycash/interview-baguwen](https://github.com/flycash/interview-baguwen) - 面试八股文
 *   [idaSmilence/javaDesign](https://github.com/idaSmilence/javaDesign) -
 *   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-*   [lmhmhl/Resilience4j-Guides-Chinese](https://github.com/lmhmhl/Resilience4j-Guides-Chinese) - Resilience4j guides in chinese version
 
 ## Jupyter Notebook
 
@@ -133,6 +132,7 @@
 *   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 *   [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
 *   [noworneverev/graphrag-visualizer](https://github.com/noworneverev/graphrag-visualizer) - A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG.
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 *   [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores.
 *   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 *   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
