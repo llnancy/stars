@@ -13,7 +13,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Clojure](#clojure)
-*   [CSS](#css)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
@@ -23,6 +22,7 @@
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [Solidity](#solidity)
+*   [CSS](#css)
 *   [PowerShell](#powershell)
 *   [Scala](#scala)
 *   [Kotlin](#kotlin)
@@ -44,6 +44,7 @@
 *   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 *   [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 *   [lquesada/ComfyUI-Inpaint-CropAndStitch](https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch) - ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
+*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 *   [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 *   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 *   [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
@@ -157,13 +158,6 @@
 ## Clojure
 
 *   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
-
-## CSS
-
-*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
-*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Java
 
@@ -365,6 +359,12 @@
 ## Solidity
 
 *   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
+
+## CSS
+
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## PowerShell
 
