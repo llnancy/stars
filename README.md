@@ -36,6 +36,8 @@
 
 ## Python
 
+*   [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
+*   [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 *   [KMnO4-zx/huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat) - Chat-甄嬛是利用《甄嬛传》剧本中所有关于甄嬛的台词和语句，基于ChatGLM2进行LoRA微调得到的模仿甄嬛语气的聊天语言模型。
 *   [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 *   [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
@@ -309,7 +311,6 @@
 *   [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 *   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 *   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
-*   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 
 ## Vue
 
@@ -347,7 +348,6 @@
 *   [itclanCode/blogcode](https://github.com/itclanCode/blogcode) - 前端面试题,微信小程序,云开发,开发实用性技能,itclanCoder的技术后花园,源码,欢迎star,提issues
 *   [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
 *   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
-*   [almir/docker-webhook](https://github.com/almir/docker-webhook) - Dockerized https://github.com/adnanh/webhook
 
 ## Rust
 
