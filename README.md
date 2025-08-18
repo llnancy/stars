@@ -36,6 +36,7 @@
 
 ## Python
 
+*   [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 *   [caolvchong-top/twitter\_download](https://github.com/caolvchong-top/twitter_download) - 推特 图片 视频 爬虫;一键下载
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 *   [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
@@ -134,7 +135,6 @@
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 *   [Veal98/Echo](https://github.com/Veal98/Echo) - 🦄 论坛：基于 SpringBoot + MyBatis + MySQL + Redis + Kafka + Elasticsearch + Spring Security + ... 并提供详细的开发文档和配套教程。包含帖子、评论、私信、系统通知、点赞、关注、搜索、用户设置、数据统计等模块。
 *   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
-*   [chenaey/circleDemo](https://github.com/chenaey/circleDemo) - 仿微信朋友圈 、小程序端社区
 
 ## miscellaneous
 
