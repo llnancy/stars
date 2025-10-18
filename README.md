@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Clojure](#clojure)
 *   [Java](#java)
@@ -34,20 +34,9 @@
 *   [CSS](#css)
 *   [C](#c-1)
 
-## HTML
-
-*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-*   [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
-*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
-*   [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - \[Service is DOWN now] A badge generator service to count visitors of your markdown file.
-*   [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file. Fork From:jwenjian/visitor-badge
-*   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-
 ## Python
 
+*   [IuvenisSapiens/ComfyUI\_Qwen3-VL-Instruct](https://github.com/IuvenisSapiens/ComfyUI_Qwen3-VL-Instruct) - The successful integration of Qwen3-VL-Instruct series into the ComfyUI platform has enabled a smooth operation, supporting (but not limited to) text-based queries, video queries, single-image queries, and multi-image queries for generating captions or responses.
 *   [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 *   [caolvchong-top/twitter\_download](https://github.com/caolvchong-top/twitter_download) - 推特 图片 视频 爬虫;一键下载
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -117,6 +106,27 @@
 *   [PurityZw/huaban\_images\_spider](https://github.com/PurityZw/huaban_images_spider) - 爬取花瓣网美女图片. http://huaban.com/boards/favorite/beauty/
 *   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
 
+## Jupyter Notebook
+
+*   [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+*   [PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) - 深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI
+*   [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
+*   [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
+*   [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
+
+## HTML
+
+*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+*   [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
+*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
+*   [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - \[Service is DOWN now] A badge generator service to count visitors of your markdown file.
+*   [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file. Fork From:jwenjian/visitor-badge
+*   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+
 ## JavaScript
 
 *   [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -147,7 +157,6 @@
 *   [couds/react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 *   [Veal98/Echo](https://github.com/Veal98/Echo) - 🦄 论坛：基于 SpringBoot + MyBatis + MySQL + Redis + Kafka + Elasticsearch + Spring Security + ... 并提供详细的开发文档和配套教程。包含帖子、评论、私信、系统通知、点赞、关注、搜索、用户设置、数据统计等模块。
-*   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
 ## miscellaneous
 
@@ -171,14 +180,6 @@
 *   [flycash/interview-baguwen](https://github.com/flycash/interview-baguwen) - 面试八股文
 *   [idaSmilence/javaDesign](https://github.com/idaSmilence/javaDesign) -
 *   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-
-## Jupyter Notebook
-
-*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-*   [PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) - 深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI
-*   [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
-*   [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
-*   [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
 
 ## TypeScript
 
@@ -301,7 +302,6 @@
 *   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 *   [yuechengzhishang/JavaNetCap](https://github.com/yuechengzhishang/JavaNetCap) - Java通过网络抓包的方式自动生成接口测试脚本工具
 *   [fengzhizi715/NetDiscovery](https://github.com/fengzhizi715/NetDiscovery) - NetDiscovery 是一款基于 Vert.x、RxJava 2 等框架实现的通用爬虫框架/中间件。
-*   [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
 
 ## Go
 
