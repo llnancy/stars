@@ -36,6 +36,7 @@
 
 ## Python
 
+*   [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.
 *   [IuvenisSapiens/ComfyUI\_Qwen3-VL-Instruct](https://github.com/IuvenisSapiens/ComfyUI_Qwen3-VL-Instruct) - The successful integration of Qwen3-VL-Instruct series into the ComfyUI platform has enabled a smooth operation, supporting (but not limited to) text-based queries, video queries, single-image queries, and multi-image queries for generating captions or responses.
 *   [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 *   [caolvchong-top/twitter\_download](https://github.com/caolvchong-top/twitter_download) - 推特 图片 视频 爬虫;一键下载
@@ -335,7 +336,6 @@
 *   [darrynten/vue-adsense](https://github.com/darrynten/vue-adsense) - Google Adsense for Vue
 *   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 *   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-*   [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 
 ## C\#
 
