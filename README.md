@@ -36,6 +36,7 @@
 
 ## Python
 
+*   [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your stable diffusion training needs.
 *   [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.
 *   [IuvenisSapiens/ComfyUI\_Qwen3-VL-Instruct](https://github.com/IuvenisSapiens/ComfyUI_Qwen3-VL-Instruct) - The successful integration of Qwen3-VL-Instruct series into the ComfyUI platform has enabled a smooth operation, supporting (but not limited to) text-based queries, video queries, single-image queries, and multi-image queries for generating captions or responses.
 *   [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -180,7 +181,6 @@
 *   [llnancy/jiuguwen](https://github.com/llnancy/jiuguwen) - 面试”九股文”：我比八股多一股！
 *   [flycash/interview-baguwen](https://github.com/flycash/interview-baguwen) - 面试八股文
 *   [idaSmilence/javaDesign](https://github.com/idaSmilence/javaDesign) -
-*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 
 ## TypeScript
 
