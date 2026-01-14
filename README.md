@@ -39,7 +39,7 @@
 *   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 *   [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -
 *   [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
-*   [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your stable diffusion training needs.
+*   [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your Diffusion training needs.
 *   [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.
 *   [IuvenisSapiens/ComfyUI\_Qwen3-VL-Instruct](https://github.com/IuvenisSapiens/ComfyUI_Qwen3-VL-Instruct) - The successful integration of Qwen3-VL-Instruct series into the ComfyUI platform has enabled a smooth operation, supporting (but not limited to) text-based queries, video queries, single-image queries, and multi-image queries for generating captions or responses.
 *   [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
