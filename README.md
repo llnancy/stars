@@ -134,7 +134,7 @@
 *   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
 *   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-*   [michaelliao/shici](https://github.com/michaelliao/shici) - 中华诗词网站 www.shi-ci.com 诗词文件及源码
+*   [michaelliao/shici.puppylab.org](https://github.com/michaelliao/shici.puppylab.org) - 中华诗词网站 www.shi-ci.com 诗词文件及源码
 *   [taniarascia/webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) - 📦 ‎ A sensible webpack 5 boilerplate.
 *   [HoYuenhang/aNavigation](https://github.com/HoYuenhang/aNavigation) - 单纯就是一个导航。
 *   [maligree/python-ast-explorer](https://github.com/maligree/python-ast-explorer) - The code behind python-ast-explorer.com
