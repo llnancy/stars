@@ -108,6 +108,7 @@
 *   [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 *   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+*   [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
 *   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
 *   [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 *   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
@@ -350,7 +351,6 @@
 *   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 *   [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 *   [itclanCode/blogcode](https://github.com/itclanCode/blogcode) - 前端面试题,微信小程序,云开发,开发实用性技能,itclanCoder的技术后花园,源码,欢迎star,提issues
-*   [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
 
 ## Rust
 
