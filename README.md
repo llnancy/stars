@@ -8,9 +8,8 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
-*   [Python](#python)
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Go](#go)
@@ -18,6 +17,7 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Clojure](#clojure)
+*   [Vue](#vue)
 *   [C#](#c)
 *   [Shell](#shell)
 *   [Rust](#rust)
@@ -33,25 +33,39 @@
 *   [Markdown](#markdown)
 *   [CSS](#css)
 
-## Vue
+## TypeScript
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-*   [luohc92/vue3-image-viewer](https://github.com/luohc92/vue3-image-viewer) - A image viewer for vue3.x  一款vue3.0的图片查看器
-*   [heikaimu/vue3-waterfall-plugin](https://github.com/heikaimu/vue3-waterfall-plugin) - vue3 瀑布流插件，支持 PC 和移动端，支持 animate 的所有动画效果，支持图片懒加载
-*   [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
-*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-*   [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
-*   [dingshaohua-com/vuepress-plugin-anchor-right](https://github.com/dingshaohua-com/vuepress-plugin-anchor-right) -
-*   [calebman/ant-design-vue-hign](https://github.com/calebman/ant-design-vue-hign) - High-level component library based on ant-design-vue
-*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
-*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
-*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
-*   [imsyy/SNav](https://github.com/imsyy/SNav) - Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
-*   [chenxuan0000/vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - :tada: vue canvas动效库
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-*   [EsunR/Blog-Index](https://github.com/EsunR/Blog-Index) - 一个通用的个人网站的引导页、导航页模板
-*   [darrynten/vue-adsense](https://github.com/darrynten/vue-adsense) - Google Adsense for Vue
-*   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+*   [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+*   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+*   [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
+*   [dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) - react library for generating avatar
+*   [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
+*   [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+*   [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
+*   [noworneverev/graphrag-visualizer](https://github.com/noworneverev/graphrag-visualizer) - A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG.
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+*   [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+*   [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
+*   [vuepress/core](https://github.com/vuepress/core) - Vue-Powered Static Site Generator
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+*   [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
+*   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
+*   [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+*   [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+*   [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 
 ## Python
 
@@ -138,39 +152,6 @@
 *   [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
 *   [fpoli/python-astexport](https://github.com/fpoli/python-astexport) - Export Python AST to JSON
 
-## TypeScript
-
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-*   [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
-*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-*   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-*   [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
-*   [dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) - react library for generating avatar
-*   [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
-*   [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-*   [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
-*   [noworneverev/graphrag-visualizer](https://github.com/noworneverev/graphrag-visualizer) - A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG.
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-*   [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
-*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-*   [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-*   [vuepress/core](https://github.com/vuepress/core) - Vue-Powered Static Site Generator
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-*   [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
-*   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
-*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-*   [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-*   [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-*   [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
-
 ## JavaScript
 
 *   [AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
@@ -239,7 +220,7 @@
 *   [lgb020/diancan](https://github.com/lgb020/diancan) - sprnigboot和微信小程序实现点餐系统（全栈开发之微信小程序点餐）
 *   [GrailStack/Moss](https://github.com/GrailStack/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
 *   [jd-opensource/joyrpc](https://github.com/jd-opensource/joyrpc) - high-performance, high-extensibility Java rpc framework.
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for many programming languages
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 *   [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 *   [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
@@ -340,6 +321,25 @@
 ## Clojure
 
 *   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
+
+## Vue
+
+*   [luohc92/vue3-image-viewer](https://github.com/luohc92/vue3-image-viewer) - A image viewer for vue3.x  一款vue3.0的图片查看器
+*   [heikaimu/vue3-waterfall-plugin](https://github.com/heikaimu/vue3-waterfall-plugin) - vue3 瀑布流插件，支持 PC 和移动端，支持 animate 的所有动画效果，支持图片懒加载
+*   [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
+*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
+*   [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
+*   [dingshaohua-com/vuepress-plugin-anchor-right](https://github.com/dingshaohua-com/vuepress-plugin-anchor-right) -
+*   [calebman/ant-design-vue-hign](https://github.com/calebman/ant-design-vue-hign) - High-level component library based on ant-design-vue
+*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
+*   [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
+*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
+*   [imsyy/SNav](https://github.com/imsyy/SNav) - Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+*   [chenxuan0000/vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - :tada: vue canvas动效库
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+*   [EsunR/Blog-Index](https://github.com/EsunR/Blog-Index) - 一个通用的个人网站的引导页、导航页模板
+*   [darrynten/vue-adsense](https://github.com/darrynten/vue-adsense) - Google Adsense for Vue
+*   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 
 ## C\#
 
