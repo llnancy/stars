@@ -196,7 +196,7 @@
 *   [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 *   [llnancy/upload4j](https://github.com/llnancy/upload4j) - 基于 SPI 机制实现的通用文件上传组件。目前已支持本地磁盘/又拍云，且支持 Reactive 模式，可自行扩展。
 *   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
-*   [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+*   [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 *   [apache/flink](https://github.com/apache/flink) - Apache Flink
 *   [mathieucarbou/license-maven-plugin](https://github.com/mathieucarbou/license-maven-plugin) - Manage license headers in your source files
 *   [spring-io/spring-javaformat](https://github.com/spring-io/spring-javaformat) -
