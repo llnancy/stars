@@ -71,7 +71,7 @@
 
 *   [kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 *   [ssitu/ComfyUI\_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale) - ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
-*   [shallowdream204/BitDance](https://github.com/shallowdream204/BitDance) - BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model.
+*   [shallowdream204/BitDance](https://github.com/shallowdream204/BitDance) - BitDance & UniWeTok: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model.
 *   [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet) - Lightweight nudity detection
 *   [yunxiaoshi/Neural-IMage-Assessment](https://github.com/yunxiaoshi/Neural-IMage-Assessment) - A PyTorch Implementation of Neural IMage Assessment
 *   [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
