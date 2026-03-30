@@ -259,7 +259,7 @@
 *   [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL
 *   [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 *   [llnancy/huaying](https://github.com/llnancy/huaying) - 🧚‍♀️ 花楹 - 一个基于 Spring Boot 构建的随机资源 API 服务。可作为随机图片 API，用于网站背景图等。
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 *   [amaembo/streamex](https://github.com/amaembo/streamex) - Enhancing Java Stream API
 *   [apolloconfig/apollo-use-cases](https://github.com/apolloconfig/apollo-use-cases) - Show various usage scenarios and sample codes of the Apollo configuration center, welcome to share more configuration use cases in your daily work!
 *   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
