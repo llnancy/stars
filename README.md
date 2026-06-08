@@ -36,6 +36,7 @@
 
 ## Python
 
+*   [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
 *   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 *   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 *   [lexiforest/curl\_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
@@ -270,7 +271,6 @@
 *   [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 *   [llnancy/huaying](https://github.com/llnancy/huaying) - 🧚‍♀️ 花楹 - 一个基于 Spring Boot 构建的随机资源 API 服务。可作为随机图片 API，用于网站背景图等。
 *   [amaembo/streamex](https://github.com/amaembo/streamex) - Enhancing Java Stream API
-*   [apolloconfig/apollo-use-cases](https://github.com/apolloconfig/apollo-use-cases) - Show various usage scenarios and sample codes of the Apollo configuration center, welcome to share more configuration use cases in your daily work!
 
 ## Go
 
